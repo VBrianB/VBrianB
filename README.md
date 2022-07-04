@@ -43,7 +43,7 @@
 
 Como prometido, eu vou falar um pouco sobre mim. Meu nome é Vinicius Brian Bolzani e eu tenho 18 anos, é meio óbvio que eu gosto de tecnologia assim como a maioria dos desenvolvedores, mas qual o motivo para eu realmente gostar de tecnologia? Bem, isso é simples! A alguns anos, eu percebi que me importava em ajudar os outros, e que os sonhos normais não iriam suprir os meus desejos, então eu vi que precisava ajudar as pessoas.
 
-Desde lá, eu anceio pelo dia onde vou fazer parte de algo que vai mudar o mundo,e sim, eu acredito que posso mudar o mundo com um ato de cada vez. E foi aí que eu tive a ideia de unificar o meu sonho com a tecnologia... E foi amor a primeira vista, hoje eu estou a 3 a 4 anos aprendendo e evoluindo cada dia mais em busca do meu sonho, e apesar de muitas dificuldades que todos nesse mundinho estamos passando, a minha esperança não é abalada.
+Desde lá, eu anceio pelo dia onde vou fazer parte de algo que vai mudar o mundo, e sim, eu acredito que posso mudar o mundo com um ato de cada vez. E foi aí que eu tive a ideia de unificar o meu sonho com a tecnologia... E foi amor a primeira vista, hoje eu estou há 3 a 4 anos aprendendo e evoluindo cada dia mais em busca do meu sonho, e apesar de muitas dificuldades que todos nesse mundinho estamos passando, a minha esperança não é abalada.
 
 Eu almejo me tornar um bom Desenvolvedor Front-end, e ao meu lado quero ter pessoas sonhadoras e guerreiras, batalhando para que o nosso futuro seja contruído com muita paixão e perseverança.
 
