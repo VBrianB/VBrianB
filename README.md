@@ -1,14 +1,14 @@
 ## 🚀 VBrianB 
 
 
-<h3 > Oi! E aí, beleza? </h3>
-<h4> Que bom que você deu uma passada aqui no meu perfil! Vamos nós conhecer um pouco, o que acha?</h4>
+<h3 > Oi! E aí, beleza?😀 </h3>
+<h4> Que bom que você deu uma passada aqui no meu perfil!😁 Vamos nós conhecer um pouco, o que acha?</h4>
 
-<h4> Bem, para fins educacionais e profissionais, seria bom mostrar um pouco da minha atividade e conhecimentos</h4>
+<h4> Bem, para fins educacionais e profissionais, seria bom mostrar um pouco da minha atividade e conhecimentos🎓</h4>
 
 
 <br />
-<h2 align="center"> Statistics</h2>
+<h2 align="center"> 📊 Statistics 📊 </h2>
 
 
     
