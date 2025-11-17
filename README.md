@@ -3,7 +3,7 @@
 
 
 
-<h2> Olá. </h2>
+<h2> Olá. 👻</h2>
 
 Me chamo Vinicius, tenho 21 anos e atuo como desenvolvedor Front-End há 3 anos. Ao longo dessa jornada, trabalhei em projetos diversos e desafiadores: sistemas de gerenciamento interno, lojas, portfólios, landing pages, e também me aventurei em alguns projetos de UX/UI.
 
